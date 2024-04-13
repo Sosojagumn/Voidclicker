@@ -18,3 +18,18 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#pointBtn{
+    height: 30%;
+    width: 30%;
+    top: 50%;
+    left: 50%;
+    background: white;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+#pointBtn:hover{
+    height: 35%;
+    width: 35%;
+    background: gainsboro;
+    color: white;
+}
