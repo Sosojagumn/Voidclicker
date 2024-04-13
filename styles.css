@@ -33,3 +33,8 @@ main{
     background: gainsboro;
     color: white;
 }
+#pointBtn:active{
+    height: 40%;
+    width: 40%;
+    background: grey;
+}
